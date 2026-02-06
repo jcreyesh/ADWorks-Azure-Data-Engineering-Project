@@ -1,8 +1,0 @@
-database,tablename,loadtype,watermark_table,watermark_column
-AdventureWorksDM2019,dbo.DimCustomer,Incremental,dbo.customer_watermarktable,CustomerKey
-AdventureWorksDM2019,dbo.DimDate,Full,,
-AdventureWorksDM2019,dbo.DimGeography,Full,,
-AdventureWorksDM2019,dbo.DimProduct,Full,,
-AdventureWorksDM2019,dbo.DimProductCategory,Full,,
-AdventureWorksDM2019,dbo.DimProductSubCategory,Full,,
-AdventureWorksDM2019,dbo.FacInternetSales,Incremental,dbo.sales_watermarktable,OrderDate
