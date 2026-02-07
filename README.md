@@ -10,3 +10,5 @@ por lo que se propone un procesamiento tipo Batch.
 ![Picture1](https://github.com/user-attachments/assets/1db3adc7-8e83-4a30-93f5-20bf051eaeac)
 
 ![figura-26](https://github.com/user-attachments/assets/a54f6dbe-7442-4749-b8c5-3a057c2dc410)
+
+![figura-64](https://github.com/user-attachments/assets/69396796-8c96-4a4c-ae4b-3a07380ddfb7)
